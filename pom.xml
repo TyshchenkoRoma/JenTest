@@ -18,9 +18,9 @@
 
     <modules>
         <module>001-testng</module>
-        <module>002-junit</module>
-        <module>003-assertions</module>
-        <module>004-application-under-test</module>
+        <!--<module>002-junit</module>-->
+        <!--<module>003-assertions</module>-->
+        <!--<module>004-application-under-test</module>-->
     </modules>
 
 </project>
